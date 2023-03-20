@@ -10,5 +10,6 @@ git log --oneline
 ==== esto lo escribo en la rama1
 git branch nombre -> crea una rama
 git checkout nombre -> nos cambia de rama
+## esto es la rama 2
 
 
