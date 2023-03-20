@@ -7,4 +7,6 @@ git rm
 git commit
 git log --oneline
 
+## esto es la rama 2
+
 
