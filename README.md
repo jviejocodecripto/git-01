@@ -5,4 +5,6 @@ git status
 git add
 git rm
 git commit
+git log --oneline
+
 
