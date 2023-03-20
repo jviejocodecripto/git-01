@@ -13,3 +13,4 @@ git checkout nombre -> nos cambia de rama
 ## esto es la rama 2
 
 
+## ESTE CONTENIDO DESPUES DE SUBIR LA RAMA MASTER
